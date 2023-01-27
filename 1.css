@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:700&display=swap');
+*{padding: 0;
+	margin: 0;
+}
+
+.main h1{
+    color: rgb(0, 0, 0);
+	font-size: 40px;
+	font-weight: bold;
+	margin-top: 200px;
+	width: 885px;
+	text-align: center;
+    margin-left: 300px;
+    background-color: rgba(0, 128, 0, 0.356);
+
+}
+
+.navbar img{
+    width: 100px;
+	height: 90px;
+	padding: 0px 100px;
+	margin-left: -35px;
+
+}
+
+.navbar{
+	position: fixed;
+	height: 90px;
+	width: 100%;
+	top: 0;
+	left: 0;
+	background: rgba(62, 53, 34, 0.392);
+}
+.p-content{
+    font-size: 20px;
+	font-family: 'Roboto', sans-serif;
+	color: rgb(0, 0, 0);
+	padding: 6px 13px;
+	text-decoration: none;
+    margin-left: 520px;
+    text-align: center;
+    margin-top: 80px;
+    position: absolute;
+}
+
+.main h2{
+    color: rgb(0, 0, 0);
+	font-size: 40px;
+	font-weight: bold;
+	margin-top: 300px;
+	width: 885px;
+	text-align: center;
+    margin-left: 300px;
+    background-color: rgba(0, 128, 0, 0.356);
+}
+
+.p-visit{
+    font-size: 20px;
+    font-size: 20px;
+	font-family: 'Roboto', sans-serif;
+	color: rgb(0, 0, 0);
+	padding: 6px 13px;
+	text-decoration: none;
+    margin-left: 330px;
+    text-align: center;
+    margin-top: 65px;
+    position: absolute;
+}
